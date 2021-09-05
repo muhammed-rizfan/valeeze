@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "241847733904",
+    "project_id": "valeeze-be424",
+    "storage_bucket": "valeeze-be424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241847733904:android:033096677a328335175215",
+        "android_client_info": {
+          "package_name": "com.valeeze.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241847733904-114vnfsqiua8vsqml2v1tkrhnaat2vs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valeeze.app",
+            "certificate_hash": "d85b12254e225a5a4a9366a5eb9b066532128fff"
+          }
+        },
+        {
+          "client_id": "241847733904-qfjueq46m4miufcomhvkbh6ot06tkrb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valeeze.app",
+            "certificate_hash": "984e8cbc7b6fb45b2850f3e601d7e95356916056"
+          }
+        },
+        {
+          "client_id": "241847733904-rl0642a7vdkk7lp64f0re91o782cp3pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valeeze.app",
+            "certificate_hash": "1a426064c0a69e7f24de677997a7361e6ee43939"
+          }
+        },
+        {
+          "client_id": "241847733904-t46m1ncql941pth8na2abp2kava9pr67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI1pRiM2KJq0mUwm7X2TDZN7R0JUdVXgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241847733904-t46m1ncql941pth8na2abp2kava9pr67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
